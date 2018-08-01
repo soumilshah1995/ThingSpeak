@@ -4,6 +4,9 @@ Code
 //Master in Electrical Enginner
 //Master in computer Engineering
 //Graduate Assistant 
+//please change ssid and password
+
+
 
 // GO TO SKETCH < include library < manage library < try DHT  download all library
 #include <DHT.h>  // Including library for dht
